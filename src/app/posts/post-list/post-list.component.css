@@ -1,0 +1,35 @@
+mat-expansion-panel{
+  margin: auto;
+  margin-top: 20px;
+  width: 65%;
+  align-items: center;
+
+}
+
+.spacer{
+  flex: 1 1 auto;
+}
+
+.currDate{
+  font-size: small;
+  font-weight: bolder;
+  padding-right: 10px;
+}
+
+.title{
+  font-weight:500;
+}
+
+mat-paginator{
+  margin-top: 1rem;
+}
+
+
+.post-image {
+  width: 100%;
+}
+
+.post-image img {
+  width: 100%;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}

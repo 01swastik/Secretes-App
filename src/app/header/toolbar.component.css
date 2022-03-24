@@ -1,0 +1,21 @@
+a{
+  text-decoration: none;
+  color: white;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size:1rem;
+  display: flex;
+}
+
+.spacer{
+  flex: 1 1 auto;
+}
+
+a:hover{
+  color:magenta;
+  font-size: 110%;
+}
